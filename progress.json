@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:42.208Z",
+  "generated_at": "2026-09-18T13:59:44.161Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -11,6 +11,110 @@
       "path": "problems/0001-matrix-vector-dot-product",
       "first_solved_at": "2024-07-10T21:47:47.132Z",
       "last_pushed_at": "2024-07-10T21:47:47.132Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2024-07-12T04:01:45.170Z",
+      "last_pushed_at": "2024-07-12T04:01:45.170Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2024-07-12T04:08:23.310Z",
+      "last_pushed_at": "2024-07-12T04:08:23.310Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2024-07-12T04:53:25.550Z",
+      "last_pushed_at": "2024-07-12T04:53:25.550Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2024-07-12T05:00:38.323Z",
+      "last_pushed_at": "2024-07-12T05:00:38.323Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-07-12T15:01:19.084Z",
+      "last_pushed_at": "2024-07-12T15:01:19.084Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2024-07-12T15:02:35.890Z",
+      "last_pushed_at": "2024-07-12T15:02:35.890Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2024-07-12T15:13:42.905Z",
+      "last_pushed_at": "2024-07-12T15:13:42.905Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2024-07-12T15:14:51.642Z",
+      "last_pushed_at": "2024-07-12T15:14:51.642Z",
       "language": "python",
       "lines": 1
     }
