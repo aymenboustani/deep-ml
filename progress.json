@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:44.161Z",
+  "generated_at": "2026-09-18T13:59:45.933Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -115,6 +115,19 @@
       "path": "problems/0002-transpose-of-a-matrix",
       "first_solved_at": "2024-07-12T15:14:51.642Z",
       "last_pushed_at": "2024-07-12T15:14:51.642Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2024-07-26T11:37:04.162Z",
+      "last_pushed_at": "2024-07-26T11:37:04.162Z",
       "language": "python",
       "lines": 1
     }
