@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:45.933Z",
+  "generated_at": "2026-09-18T13:59:47.669Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -128,6 +128,84 @@
       "path": "problems/0029-random-shuffle-of-dataset",
       "first_solved_at": "2024-07-26T11:37:04.162Z",
       "last_pushed_at": "2024-07-26T11:37:04.162Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2024-08-22T00:53:48.835Z",
+      "last_pushed_at": "2024-08-22T00:53:48.835Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2024-08-22T12:31:56.233Z",
+      "last_pushed_at": "2024-08-22T12:31:56.233Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2024-08-22T12:34:41.184Z",
+      "last_pushed_at": "2024-08-22T12:34:41.184Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2024-08-22T12:37:01.924Z",
+      "last_pushed_at": "2024-08-22T12:37:01.924Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2024-08-22T15:13:36.043Z",
+      "last_pushed_at": "2024-08-22T15:13:36.043Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2024-08-22T19:37:51.436Z",
+      "last_pushed_at": "2024-08-22T19:37:51.436Z",
       "language": "python",
       "lines": 1
     }
