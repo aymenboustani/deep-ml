@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:49.465Z",
+  "generated_at": "2026-09-18T13:59:51.283Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -258,6 +258,45 @@
       "path": "problems/0003-reshape-matrix",
       "first_solved_at": "2024-08-23T09:45:54.480Z",
       "last_pushed_at": "2024-08-23T09:45:54.480Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:37": {
+      "kind": "problem",
+      "id": "37",
+      "title": "Calculate Correlation Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/37",
+      "path": "problems/0037-calculate-correlation-matrix",
+      "first_solved_at": "2024-08-29T13:27:46.156Z",
+      "last_pushed_at": "2024-08-29T13:27:46.156Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2024-08-29T13:34:04.477Z",
+      "last_pushed_at": "2024-08-29T13:34:04.477Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2024-08-29T16:29:48.544Z",
+      "last_pushed_at": "2024-08-29T16:29:48.544Z",
       "language": "python",
       "lines": 1
     }
