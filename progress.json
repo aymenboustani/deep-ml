@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:52.954Z",
+  "generated_at": "2026-09-18T13:59:54.588Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -310,6 +310,19 @@
       "path": "problems/0031-divide-dataset-based-on-feature-threshold",
       "first_solved_at": "2024-08-30T14:26:40.951Z",
       "last_pushed_at": "2024-08-30T14:26:40.951Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2024-09-01T15:47:01.201Z",
+      "last_pushed_at": "2024-09-01T15:47:01.201Z",
       "language": "python",
       "lines": 1
     }
