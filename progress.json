@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:56.246Z",
+  "generated_at": "2026-09-18T13:59:57.954Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -362,6 +362,32 @@
       "path": "problems/0015-linear-regression-using-gradient-descent",
       "first_solved_at": "2024-09-02T19:55:02.789Z",
       "last_pushed_at": "2024-09-02T19:55:02.789Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2024-09-04T23:38:01.747Z",
+      "last_pushed_at": "2024-09-04T23:38:01.747Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2024-09-04T23:55:05.931Z",
+      "last_pushed_at": "2024-09-04T23:55:05.931Z",
       "language": "python",
       "lines": 1
     }
