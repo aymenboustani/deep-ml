@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:59:57.954Z",
+  "generated_at": "2026-09-18T13:59:59.797Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -390,6 +390,32 @@
       "last_pushed_at": "2024-09-04T23:55:05.931Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2024-09-05T00:26:59.091Z",
+      "last_pushed_at": "2024-09-05T00:26:59.091Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2024-09-05T16:47:23.765Z",
+      "last_pushed_at": "2024-09-05T16:47:23.765Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
