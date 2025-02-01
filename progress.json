@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:03.549Z",
+  "generated_at": "2026-09-18T14:00:05.282Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -442,6 +442,110 @@
       "last_pushed_at": "2024-09-10T13:20:37.825Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2025-02-01T03:34:12.727Z",
+      "last_pushed_at": "2025-02-01T03:34:12.727Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2025-02-01T03:54:28.365Z",
+      "last_pushed_at": "2025-02-01T03:54:28.365Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2025-02-01T06:50:50.240Z",
+      "last_pushed_at": "2025-02-01T06:50:50.240Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-02-01T06:53:27.617Z",
+      "last_pushed_at": "2025-02-01T06:53:27.617Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-02-01T17:26:15.745Z",
+      "last_pushed_at": "2025-02-01T17:26:15.745Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2025-02-01T22:49:40.108Z",
+      "last_pushed_at": "2025-02-01T22:49:40.108Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:66": {
+      "kind": "problem",
+      "id": "66",
+      "title": "Implement Orthogonal Projection of a Vector onto a Line",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/66",
+      "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
+      "first_solved_at": "2025-02-01T22:52:44.070Z",
+      "last_pushed_at": "2025-02-01T22:52:44.070Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:93": {
+      "kind": "problem",
+      "id": "93",
+      "title": "Calculate Mean Absolute Error (MAE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/93",
+      "path": "problems/0093-calculate-mean-absolute-error-mae",
+      "first_solved_at": "2025-02-01T23:26:28.058Z",
+      "last_pushed_at": "2025-02-01T23:26:28.058Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
