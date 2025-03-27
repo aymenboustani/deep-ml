@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:07.282Z",
+  "generated_at": "2026-09-18T14:00:09.093Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -572,6 +572,45 @@
       "last_pushed_at": "2025-02-02T17:46:25.860Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2025-03-27T23:33:06.447Z",
+      "last_pushed_at": "2025-03-27T23:33:06.447Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2025-03-27T23:39:32.329Z",
+      "last_pushed_at": "2025-03-27T23:39:32.329Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:95": {
+      "kind": "problem",
+      "id": "95",
+      "title": "Calculate the Phi Coefficient",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/95",
+      "path": "problems/0095-calculate-the-phi-coefficient",
+      "first_solved_at": "2025-03-27T23:48:55.575Z",
+      "last_pushed_at": "2025-03-27T23:48:55.575Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
