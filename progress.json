@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:09.093Z",
+  "generated_at": "2026-09-18T14:00:11.156Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -611,6 +611,110 @@
       "last_pushed_at": "2025-03-27T23:48:55.575Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-03-28T02:13:49.514Z",
+      "last_pushed_at": "2025-03-28T02:13:49.514Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:99": {
+      "kind": "problem",
+      "id": "99",
+      "title": "Implement the Softplus Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/99",
+      "path": "problems/0099-implement-the-softplus-activation-function",
+      "first_solved_at": "2025-03-28T10:57:45.092Z",
+      "last_pushed_at": "2025-03-28T10:57:45.092Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-03-28T10:59:33.736Z",
+      "last_pushed_at": "2025-03-28T10:59:33.736Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2025-03-28T11:07:37.835Z",
+      "last_pushed_at": "2025-03-28T11:07:37.835Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2025-03-28T11:12:44.657Z",
+      "last_pushed_at": "2025-03-28T11:12:44.657Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:102": {
+      "kind": "problem",
+      "id": "102",
+      "title": "Implement the Swish Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/102",
+      "path": "problems/0102-implement-the-swish-activation-function",
+      "first_solved_at": "2025-03-28T11:30:19.491Z",
+      "last_pushed_at": "2025-03-28T11:30:19.491Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2025-03-28T22:47:15.592Z",
+      "last_pushed_at": "2025-03-28T22:47:15.592Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2025-03-28T22:58:15.344Z",
+      "last_pushed_at": "2025-03-28T22:58:15.344Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
