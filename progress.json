@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:16.111Z",
+  "generated_at": "2026-09-18T14:00:17.695Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -780,6 +780,32 @@
       "last_pushed_at": "2025-03-30T00:17:48.171Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:94": {
+      "kind": "problem",
+      "id": "94",
+      "title": "Implement Multi-Head Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/94",
+      "path": "problems/0094-implement-multi-head-attention",
+      "first_solved_at": "2025-04-01T23:38:39.511Z",
+      "last_pushed_at": "2025-04-01T23:38:39.511Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2025-04-01T23:47:56.323Z",
+      "last_pushed_at": "2025-04-01T23:47:56.323Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
