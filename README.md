@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 62 problems · 0 labs · 0 math
+**65** solved · 65 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,7 +22,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-02-01 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-02-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-03-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-22 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-04-03 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-02-01 | [solution](problems/0083-dot-product-calculator) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-12 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2025-03-27 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
@@ -62,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-09-05 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2024-09-10 | [solution](problems/0050-implement-lasso-regression-using-ista) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-03 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-02-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-02-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-02-01 | [solution](problems/0054-implementing-a-simple-rnn) |

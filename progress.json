@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:17.695Z",
+  "generated_at": "2026-09-18T14:00:19.535Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -806,6 +806,45 @@
       "last_pushed_at": "2025-04-01T23:47:56.323Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-04-03T23:13:23.635Z",
+      "last_pushed_at": "2025-04-03T23:13:23.635Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2025-04-03T23:19:41.658Z",
+      "last_pushed_at": "2025-04-03T23:19:41.658Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2025-04-03T23:30:31.232Z",
+      "last_pushed_at": "2025-04-03T23:30:31.232Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
