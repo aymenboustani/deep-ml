@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:00:21.472Z",
+  "generated_at": "2026-09-18T14:00:23.561Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -962,6 +962,32 @@
       "last_pushed_at": "2025-04-04T19:09:39.864Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:91": {
+      "kind": "problem",
+      "id": "91",
+      "title": "Calculate F1 Score from Predicted and True Labels",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/91",
+      "path": "problems/0091-calculate-f1-score-from-predicted-and-true-labels",
+      "first_solved_at": "2025-04-06T20:04:18.644Z",
+      "last_pushed_at": "2025-04-06T20:04:18.644Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:59": {
+      "kind": "problem",
+      "id": "59",
+      "title": "Implement Long Short-Term Memory (LSTM) Network",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/59",
+      "path": "problems/0059-implement-long-short-term-memory-lstm-network",
+      "first_solved_at": "2025-04-06T22:32:46.435Z",
+      "last_pushed_at": "2025-04-06T22:32:46.435Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
