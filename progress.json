@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:02.871Z",
+  "generated_at": "2026-09-22T19:04:04.992Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1027,6 +1027,58 @@
       "last_pushed_at": "2025-04-12T04:42:21.828Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2025-04-14T00:33:10.248Z",
+      "last_pushed_at": "2025-04-14T00:33:10.248Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2025-04-14T03:11:51.645Z",
+      "last_pushed_at": "2025-04-14T03:11:51.645Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:100": {
+      "kind": "problem",
+      "id": "100",
+      "title": "Implement the Softsign Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/100",
+      "path": "problems/0100-implement-the-softsign-activation-function",
+      "first_solved_at": "2025-04-14T05:47:38.196Z",
+      "last_pushed_at": "2025-04-14T05:47:38.196Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:120": {
+      "kind": "problem",
+      "id": "120",
+      "title": "Bhattacharyya Distance Between Two Distributions",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/120",
+      "path": "problems/0120-bhattacharyya-distance-between-two-distributions",
+      "first_solved_at": "2025-04-14T21:36:29.352Z",
+      "last_pushed_at": "2025-04-14T21:36:29.352Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
