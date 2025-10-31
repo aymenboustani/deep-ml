@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:14.783Z",
+  "generated_at": "2026-09-22T19:04:16.700Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1157,6 +1157,58 @@
       "last_pushed_at": "2025-10-16T03:13:47.450Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:168": {
+      "kind": "problem",
+      "id": "168",
+      "title": "Calculate Conditional Probability from Data",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/168",
+      "path": "problems/0168-calculate-conditional-probability-from-data",
+      "first_solved_at": "2025-10-31T03:35:06.554Z",
+      "last_pushed_at": "2025-10-31T03:35:06.554Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:183": {
+      "kind": "problem",
+      "id": "183",
+      "title": "Calculate Portfolio Variance",
+      "difficulty": "easy",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/183",
+      "path": "problems/0183-calculate-portfolio-variance",
+      "first_solved_at": "2025-10-31T04:22:00.305Z",
+      "last_pushed_at": "2025-10-31T04:22:00.305Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:188": {
+      "kind": "problem",
+      "id": "188",
+      "title": "Gradient Checkpointing",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/188",
+      "path": "problems/0188-gradient-checkpointing",
+      "first_solved_at": "2025-10-31T09:14:08.242Z",
+      "last_pushed_at": "2025-10-31T09:14:08.242Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:152": {
+      "kind": "problem",
+      "id": "152",
+      "title": "Implementing ROUGE Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/152",
+      "path": "problems/0152-implementing-rouge-score",
+      "first_solved_at": "2025-10-31T09:24:31.215Z",
+      "last_pushed_at": "2025-10-31T09:24:31.215Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
