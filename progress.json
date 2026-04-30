@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:20.312Z",
+  "generated_at": "2026-09-22T19:04:22.538Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1248,6 +1248,45 @@
       "last_pushed_at": "2026-02-18T18:08:06.632Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:181": {
+      "kind": "problem",
+      "id": "181",
+      "title": "Sampling Distribution of the Mean",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/181",
+      "path": "problems/0181-sampling-distribution-of-the-mean",
+      "first_solved_at": "2026-04-30T15:37:16.129Z",
+      "last_pushed_at": "2026-04-30T15:37:16.129Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-04-30T16:30:39.845Z",
+      "last_pushed_at": "2026-04-30T16:30:39.845Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:713": {
+      "kind": "problem",
+      "id": "713",
+      "title": "Compute PSNR for Image Reconstruction Quality",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/713",
+      "path": "problems/0713-compute-psnr-for-image-reconstruction-quality",
+      "first_solved_at": "2026-04-30T16:53:14.326Z",
+      "last_pushed_at": "2026-04-30T16:53:14.326Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
