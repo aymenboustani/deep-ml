@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 99 problems · 0 labs · 0 math
+**106** solved · 106 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adagrad Optimizer](https://www.deep-ml.com/problems/145) | easy | 2026-05-01 | [solution](problems/0145-adagrad-optimizer) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2025-04-14 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-03-30 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-09-01 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
@@ -67,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-07-12 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-10 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2025-03-28 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-05-01 | [solution](problems/0146-momentum-optimizer) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-22 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2025-04-01 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-03-28 | [solution](problems/0081-poisson-distribution-probability-calculator) |
@@ -81,12 +83,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2025-04-12 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2025-04-14 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-03-28 | [solution](problems/0087-adam-optimizer) |
+| [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-05-01 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-04 | [solution](problems/0079-binomial-distribution-probability) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-03-29 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-28 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-09-05 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2024-09-10 | [solution](problems/0050-implement-lasso-regression-using-ista) |
@@ -100,9 +104,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-17 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-02-01 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2025-10-31 | [solution](problems/0152-implementing-rouge-score) |
+| [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-05-01 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-29 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-09-04 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-09-04 | [solution](problems/0007-matrix-transformation) |
+| [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-01 | [solution](problems/0745-multi-token-prediction-training-objective) |
+| [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-03-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-09-05 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-09-02 | [solution](problems/0041-simple-convolutional-2d-layer) |

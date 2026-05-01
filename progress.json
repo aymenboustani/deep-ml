@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:22.538Z",
+  "generated_at": "2026-09-22T19:04:24.482Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1287,6 +1287,97 @@
       "last_pushed_at": "2026-04-30T16:53:14.326Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-05-01T01:49:14.563Z",
+      "last_pushed_at": "2026-05-01T01:49:14.563Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:739": {
+      "kind": "problem",
+      "id": "739",
+      "title": "Newton-Schulz Iteration for Approximate Orthogonalization",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/739",
+      "path": "problems/0739-newton-schulz-iteration-for-approximate-orthogonalization",
+      "first_solved_at": "2026-05-01T18:25:03.474Z",
+      "last_pushed_at": "2026-05-01T18:25:03.474Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:745": {
+      "kind": "problem",
+      "id": "745",
+      "title": "Multi-Token Prediction Training Objective",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/745",
+      "path": "problems/0745-multi-token-prediction-training-objective",
+      "first_solved_at": "2026-05-01T22:24:32.061Z",
+      "last_pushed_at": "2026-05-01T22:24:32.061Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:145": {
+      "kind": "problem",
+      "id": "145",
+      "title": "Adagrad Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/145",
+      "path": "problems/0145-adagrad-optimizer",
+      "first_solved_at": "2026-05-01T22:32:03.149Z",
+      "last_pushed_at": "2026-05-01T22:32:03.149Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:146": {
+      "kind": "problem",
+      "id": "146",
+      "title": "Momentum Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/146",
+      "path": "problems/0146-momentum-optimizer",
+      "first_solved_at": "2026-05-01T22:37:11.391Z",
+      "last_pushed_at": "2026-05-01T22:37:11.391Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:140": {
+      "kind": "problem",
+      "id": "140",
+      "title": "Bernoulli Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/140",
+      "path": "problems/0140-bernoulli-naive-bayes-classifier",
+      "first_solved_at": "2026-05-01T23:00:56.199Z",
+      "last_pushed_at": "2026-05-01T23:00:56.199Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:143": {
+      "kind": "problem",
+      "id": "143",
+      "title": "Instance Normalization (IN) Implementation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/143",
+      "path": "problems/0143-instance-normalization-in-implementation",
+      "first_solved_at": "2026-05-01T23:17:11.274Z",
+      "last_pushed_at": "2026-05-01T23:17:11.274Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
