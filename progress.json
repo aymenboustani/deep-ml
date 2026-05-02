@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:24.482Z",
+  "generated_at": "2026-09-22T19:04:26.850Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1378,6 +1378,97 @@
       "last_pushed_at": "2026-05-01T23:17:11.274Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:139": {
+      "kind": "problem",
+      "id": "139",
+      "title": "Elastic Net Regression via Gradient Descent",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/139",
+      "path": "problems/0139-elastic-net-regression-via-gradient-descent",
+      "first_solved_at": "2026-05-02T01:49:00.413Z",
+      "last_pushed_at": "2026-05-02T01:49:00.413Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-05-02T18:19:06.660Z",
+      "last_pushed_at": "2026-05-02T18:19:06.660Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:147": {
+      "kind": "problem",
+      "id": "147",
+      "title": "GeLU Activation Function ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/147",
+      "path": "problems/0147-gelu-activation-function",
+      "first_solved_at": "2026-05-02T18:26:18.824Z",
+      "last_pushed_at": "2026-05-02T18:26:18.824Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:149": {
+      "kind": "problem",
+      "id": "149",
+      "title": "Adadelta Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/149",
+      "path": "problems/0149-adadelta-optimizer",
+      "first_solved_at": "2026-05-02T18:33:09.983Z",
+      "last_pushed_at": "2026-05-02T18:33:09.983Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:148": {
+      "kind": "problem",
+      "id": "148",
+      "title": "Adamax Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/148",
+      "path": "problems/0148-adamax-optimizer",
+      "first_solved_at": "2026-05-02T18:51:08.678Z",
+      "last_pushed_at": "2026-05-02T18:51:08.678Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:105": {
+      "kind": "problem",
+      "id": "105",
+      "title": "Train Softmax Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/105",
+      "path": "problems/0105-train-softmax-regression-with-gradient-descent",
+      "first_solved_at": "2026-05-02T19:23:30.925Z",
+      "last_pushed_at": "2026-05-02T19:23:30.925Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2026-05-02T20:39:16.877Z",
+      "last_pushed_at": "2026-05-02T20:39:16.877Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
