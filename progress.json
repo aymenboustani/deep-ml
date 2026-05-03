@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:26.850Z",
+  "generated_at": "2026-09-22T19:04:29.181Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1469,6 +1469,123 @@
       "last_pushed_at": "2026-05-02T20:39:16.877Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-05-03T01:15:55.538Z",
+      "last_pushed_at": "2026-05-03T01:15:55.538Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:169": {
+      "kind": "problem",
+      "id": "169",
+      "title": "Implement AdamW Optimizer Step",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/169",
+      "path": "problems/0169-implement-adamw-optimizer-step",
+      "first_solved_at": "2026-05-03T01:19:12.580Z",
+      "last_pushed_at": "2026-05-03T01:19:12.580Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-05-03T11:15:06.398Z",
+      "last_pushed_at": "2026-05-03T11:15:06.398Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2026-05-03T11:30:17.687Z",
+      "last_pushed_at": "2026-05-03T11:30:17.687Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:180": {
+      "kind": "problem",
+      "id": "180",
+      "title": "Conditional Probability from Joint Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/180",
+      "path": "problems/0180-conditional-probability-from-joint-distribution",
+      "first_solved_at": "2026-05-03T11:45:20.089Z",
+      "last_pushed_at": "2026-05-03T11:45:20.089Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-05-03T12:10:06.386Z",
+      "last_pushed_at": "2026-05-03T12:10:06.386Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:369": {
+      "kind": "problem",
+      "id": "369",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/369",
+      "path": "problems/0369-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-05-03T12:24:19.069Z",
+      "last_pushed_at": "2026-05-03T12:24:19.069Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:106": {
+      "kind": "problem",
+      "id": "106",
+      "title": "Train Logistic Regression with Gradient Descent",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/106",
+      "path": "problems/0106-train-logistic-regression-with-gradient-descent",
+      "first_solved_at": "2026-05-03T14:25:42.444Z",
+      "last_pushed_at": "2026-05-03T14:25:42.444Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-05-03T14:28:42.237Z",
+      "last_pushed_at": "2026-05-03T14:28:42.237Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
