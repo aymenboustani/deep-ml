@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**122** solved · 122 problems · 0 labs · 0 math
+**127** solved · 127 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adamax Optimizer](https://www.deep-ml.com/problems/148) | easy | 2026-05-02 | [solution](problems/0148-adamax-optimizer) |
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2025-04-14 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2025-03-30 | [solution](problems/0104-binary-classification-with-logistic-regression) |
+| [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-05-16 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-09-01 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-23 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Computational Efficiency of MoE](https://www.deep-ml.com/problems/123) | easy | 2025-04-17 | [solution](problems/0123-calculate-computational-efficiency-of-moe) |
@@ -37,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-04-30 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-22 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-05-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2025-04-03 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-02-18 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-02-01 | [solution](problems/0083-dot-product-calculator) |
@@ -50,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-04-04 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-04-10 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-04-16 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-05-16 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-03-29 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Gini Impurity Calculation for a Set of Classes](https://www.deep-ml.com/problems/64) | easy | 2025-04-04 | [solution](problems/0064-implement-gini-impurity-calculation-for-a-set-of-classes) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-04-04 | [solution](problems/0114-implement-global-average-pooling) |
@@ -81,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-08-23 | [solution](problems/0003-reshape-matrix) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-04-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-07-12 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-05-16 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-07-12 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-07-12 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-07-12 | [solution](problems/0023-softmax-activation-function-implementation) |
@@ -101,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-02 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-09-05 | [solution](problems/0032-generate-sorted-polynomial-features) |
+| [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-05-16 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-05-03 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-05-03 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |

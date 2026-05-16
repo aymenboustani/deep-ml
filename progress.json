@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:29.181Z",
+  "generated_at": "2026-09-22T19:04:31.197Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1586,6 +1586,71 @@
       "last_pushed_at": "2026-05-03T14:28:42.237Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:917": {
+      "kind": "problem",
+      "id": "917",
+      "title": "Implement a ResNet Basic Block",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/917",
+      "path": "problems/0917-implement-a-resnet-basic-block",
+      "first_solved_at": "2026-05-16T18:56:47.629Z",
+      "last_pushed_at": "2026-05-16T18:56:47.629Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:901": {
+      "kind": "problem",
+      "id": "901",
+      "title": "Implement Dropout from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/901",
+      "path": "problems/0901-implement-dropout-from-scratch",
+      "first_solved_at": "2026-05-16T19:04:07.672Z",
+      "last_pushed_at": "2026-05-16T19:04:07.672Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:141": {
+      "kind": "problem",
+      "id": "141",
+      "title": "Shift and Scale Array to Target Range",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/141",
+      "path": "problems/0141-shift-and-scale-array-to-target-range",
+      "first_solved_at": "2026-05-16T19:06:00.227Z",
+      "last_pushed_at": "2026-05-16T19:06:00.227Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-05-16T19:07:07.941Z",
+      "last_pushed_at": "2026-05-16T19:07:07.941Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:887": {
+      "kind": "problem",
+      "id": "887",
+      "title": "Build an MLP with nn.Sequential",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/887",
+      "path": "problems/0887-build-an-mlp-with-nn-sequential",
+      "first_solved_at": "2026-05-16T19:08:30.890Z",
+      "last_pushed_at": "2026-05-16T19:08:30.890Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
