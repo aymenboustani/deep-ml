@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:04:31.197Z",
+  "generated_at": "2026-09-22T19:04:33.107Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1651,6 +1651,45 @@
       "last_pushed_at": "2026-05-16T19:08:30.890Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:641": {
+      "kind": "problem",
+      "id": "641",
+      "title": "Gibbs Softmax Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/641",
+      "path": "problems/0641-gibbs-softmax-action-selection",
+      "first_solved_at": "2026-05-17T07:09:35.481Z",
+      "last_pushed_at": "2026-05-17T07:09:35.481Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2026-05-17T07:49:32.728Z",
+      "last_pushed_at": "2026-05-17T07:49:32.728Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:176": {
+      "kind": "problem",
+      "id": "176",
+      "title": "Chi-square Probability Distribution",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/176",
+      "path": "problems/0176-chi-square-probability-distribution",
+      "first_solved_at": "2026-05-17T16:49:50.677Z",
+      "last_pushed_at": "2026-05-17T16:49:50.677Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
