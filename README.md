@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**130** solved · 130 problems · 0 labs · 0 math
+**132** solved · 132 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-02-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-03-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-05-18 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-05-02 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-04-30 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
@@ -96,6 +97,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-03-28 | [solution](problems/0087-adam-optimizer) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-05-01 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-04 | [solution](problems/0079-binomial-distribution-probability) |
+| [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-18 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-03-29 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
