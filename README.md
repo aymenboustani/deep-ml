@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**134** solved · 134 problems · 0 labs · 0 math
+**135** solved · 135 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-10-31 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-02-01 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-02-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
+| [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-06-16 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Calculate the Phi Coefficient](https://www.deep-ml.com/problems/95) | easy | 2025-03-27 | [solution](problems/0095-calculate-the-phi-coefficient) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2025-05-17 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-05-18 | [solution](problems/0165-compute-discounted-return) |
