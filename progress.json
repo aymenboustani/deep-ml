@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:00.532Z",
+  "generated_at": "2026-10-22T21:55:03.691Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1768,6 +1768,32 @@
       "last_pushed_at": "2026-07-01T17:36:38.369Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:132": {
+      "kind": "problem",
+      "id": "132",
+      "title": "Simulate Markov Chain Transitions",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/132",
+      "path": "problems/0132-simulate-markov-chain-transitions",
+      "first_solved_at": "2026-07-10T20:23:37.908Z",
+      "last_pushed_at": "2026-07-10T20:23:37.908Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:151": {
+      "kind": "problem",
+      "id": "151",
+      "title": "Dropout Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/151",
+      "path": "problems/0151-dropout-layer",
+      "first_solved_at": "2026-07-10T22:24:32.842Z",
+      "last_pushed_at": "2026-07-10T22:24:32.842Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
