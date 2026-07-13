@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:03.691Z",
+  "generated_at": "2026-10-22T21:55:14.180Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1794,6 +1794,58 @@
       "last_pushed_at": "2026-07-10T22:24:32.842Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-07-13T03:58:35.526Z",
+      "last_pushed_at": "2026-07-13T03:58:35.526Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-07-13T20:17:43.447Z",
+      "last_pushed_at": "2026-07-13T20:17:43.447Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:166": {
+      "kind": "problem",
+      "id": "166",
+      "title": "Evaluate Expected Value in a Markov Decision Process",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/166",
+      "path": "problems/0166-evaluate-expected-value-in-a-markov-decision-process",
+      "first_solved_at": "2026-07-13T20:43:12.637Z",
+      "last_pushed_at": "2026-07-13T20:43:12.637Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:150": {
+      "kind": "problem",
+      "id": "150",
+      "title": "Nesterov Accelerated Gradient Optimizer",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/150",
+      "path": "problems/0150-nesterov-accelerated-gradient-optimizer",
+      "first_solved_at": "2026-07-13T22:16:43.276Z",
+      "last_pushed_at": "2026-07-13T22:16:43.276Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
