@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:16.365Z",
+  "generated_at": "2026-10-22T21:55:18.236Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1859,6 +1859,32 @@
       "last_pushed_at": "2026-07-14T17:44:52.786Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:142": {
+      "kind": "problem",
+      "id": "142",
+      "title": "Gridworld Policy Evaluation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/142",
+      "path": "problems/0142-gridworld-policy-evaluation",
+      "first_solved_at": "2026-07-15T15:26:24.273Z",
+      "last_pushed_at": "2026-07-15T15:26:24.273Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:125": {
+      "kind": "problem",
+      "id": "125",
+      "title": "Implement a Sparse Mixture of Experts Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/125",
+      "path": "problems/0125-implement-a-sparse-mixture-of-experts-layer",
+      "first_solved_at": "2026-07-15T18:03:57.844Z",
+      "last_pushed_at": "2026-07-15T18:03:57.844Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
