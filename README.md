@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**145** solved · 145 problems · 0 labs · 0 math
+**151** solved · 151 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2026-05-18 | [solution](problems/0165-compute-discounted-return) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-05-02 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute PSNR for Image Reconstruction Quality](https://www.deep-ml.com/problems/713) | easy | 2026-04-30 | [solution](problems/0713-compute-psnr-for-image-reconstruction-quality) |
+| [Compute Temporal Difference Error](https://www.deep-ml.com/problems/257) | easy | 2026-07-16 | [solution](problems/0257-compute-temporal-difference-error) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2025-04-03 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-22 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-05-16 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
@@ -102,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-03-28 | [solution](problems/0087-adam-optimizer) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-05-01 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-04 | [solution](problems/0079-binomial-distribution-probability) |
+| [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-07-16 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-18 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-29 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
@@ -111,6 +113,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-05-02 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-28 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-05-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-16 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
+| [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-16 | [solution](problems/0219-derivative-of-softmax) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-10 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-02 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
@@ -122,6 +126,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-05-03 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-05-03 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
+| [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-07-16 | [solution](problems/0271-implement-gated-attention) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-05-03 | [solution](problems/0173-implement-k-nearest-neighbors) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2024-09-10 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-04-14 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
@@ -137,6 +142,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2025-10-31 | [solution](problems/0152-implementing-rouge-score) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-05-01 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-13 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-16 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-29 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-09-04 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-09-04 | [solution](problems/0007-matrix-transformation) |

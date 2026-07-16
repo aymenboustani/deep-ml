@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:18.236Z",
+  "generated_at": "2026-10-22T21:55:20.162Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1885,6 +1885,84 @@
       "last_pushed_at": "2026-07-15T18:03:57.844Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-07-16T14:38:14.313Z",
+      "last_pushed_at": "2026-07-16T14:38:14.313Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:271": {
+      "kind": "problem",
+      "id": "271",
+      "title": "Implement Gated Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/271",
+      "path": "problems/0271-implement-gated-attention",
+      "first_solved_at": "2026-07-16T18:12:31.185Z",
+      "last_pushed_at": "2026-07-16T18:12:31.185Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:187": {
+      "kind": "problem",
+      "id": "187",
+      "title": "Build a Simple ETL Pipeline (MLOps)",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/187",
+      "path": "problems/0187-build-a-simple-etl-pipeline-mlops",
+      "first_solved_at": "2026-07-16T18:53:48.734Z",
+      "last_pushed_at": "2026-07-16T18:53:48.734Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-07-16T19:12:22.588Z",
+      "last_pushed_at": "2026-07-16T19:12:22.588Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:203": {
+      "kind": "problem",
+      "id": "203",
+      "title": "Jensen-Shannon Divergence",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/203",
+      "path": "problems/0203-jensen-shannon-divergence",
+      "first_solved_at": "2026-07-16T19:26:30.128Z",
+      "last_pushed_at": "2026-07-16T19:26:30.128Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:257": {
+      "kind": "problem",
+      "id": "257",
+      "title": "Compute Temporal Difference Error",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/257",
+      "path": "problems/0257-compute-temporal-difference-error",
+      "first_solved_at": "2026-07-16T19:51:16.075Z",
+      "last_pushed_at": "2026-07-16T19:51:16.075Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
