@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**151** solved · 151 problems · 0 labs · 0 math
+**155** solved · 155 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2025-04-04 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-02-01 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-07-12 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-07-17 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-10-31 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-02-01 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-02-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
@@ -67,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2025-02-01 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2024-08-22 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2024-08-23 | [solution](problems/0043-implement-ridge-regression-loss-function) |
+| [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-07-17 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2025-02-02 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2025-04-04 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2025-04-04 | [solution](problems/0103-implement-the-selu-activation-function) |
@@ -76,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Xavier/Glorot Weight Initialization](https://www.deep-ml.com/problems/369) | easy | 2026-05-03 | [solution](problems/0369-implement-xavier-glorot-weight-initialization) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2024-08-22 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2025-03-28 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
+| [KL Divergence Estimator for GRPO](https://www.deep-ml.com/problems/225) | easy | 2026-07-17 | [solution](problems/0225-kl-divergence-estimator-for-grpo) |
 | [Leaky ReLU Activation Function](https://www.deep-ml.com/problems/44) | easy | 2024-08-22 | [solution](problems/0044-leaky-relu-activation-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2024-08-23 | [solution](problems/0045-linear-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-09-02 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -133,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-04-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-03 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-02-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
+| [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-07-17 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-02-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2025-04-08 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-07-14 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |

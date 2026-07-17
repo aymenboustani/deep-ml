@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:20.162Z",
+  "generated_at": "2026-10-22T21:55:22.287Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1963,6 +1963,58 @@
       "last_pushed_at": "2026-07-16T19:51:16.075Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:225": {
+      "kind": "problem",
+      "id": "225",
+      "title": "KL Divergence Estimator for GRPO",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/225",
+      "path": "problems/0225-kl-divergence-estimator-for-grpo",
+      "first_solved_at": "2026-07-17T16:12:43.361Z",
+      "last_pushed_at": "2026-07-17T16:12:43.361Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:280": {
+      "kind": "problem",
+      "id": "280",
+      "title": "Implement RBF (Gaussian) Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/280",
+      "path": "problems/0280-implement-rbf-gaussian-kernel-function",
+      "first_solved_at": "2026-07-17T16:53:41.141Z",
+      "last_pushed_at": "2026-07-17T16:53:41.141Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-07-17T18:03:53.930Z",
+      "last_pushed_at": "2026-07-17T18:03:53.930Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-07-17T18:16:38.642Z",
+      "last_pushed_at": "2026-07-17T18:16:38.642Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
