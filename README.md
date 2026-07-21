@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 155 problems · 0 labs · 0 math
+**156** solved · 156 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -154,6 +154,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-03-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-09-05 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-21 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2024-09-02 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Simulate Markov Chain Transitions](https://www.deep-ml.com/problems/132) | medium | 2026-07-10 | [solution](problems/0132-simulate-markov-chain-transitions) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-09-02 | [solution](problems/0025-single-neuron-with-backpropagation) |
