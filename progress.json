@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:24.469Z",
+  "generated_at": "2026-10-22T21:55:26.315Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2028,6 +2028,58 @@
       "last_pushed_at": "2026-07-21T15:09:23.897Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-07-22T08:26:47.136Z",
+      "last_pushed_at": "2026-07-22T08:26:47.136Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:543": {
+      "kind": "problem",
+      "id": "543",
+      "title": "Estimate Action Values Using Sample Averaging",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/543",
+      "path": "problems/0543-estimate-action-values-using-sample-averaging",
+      "first_solved_at": "2026-07-22T13:44:35.354Z",
+      "last_pushed_at": "2026-07-22T13:44:35.354Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:815": {
+      "kind": "problem",
+      "id": "815",
+      "title": "Implement Sigmoid Kernel Function",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/815",
+      "path": "problems/0815-implement-sigmoid-kernel-function",
+      "first_solved_at": "2026-07-22T15:21:57.204Z",
+      "last_pushed_at": "2026-07-22T15:21:57.204Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:822": {
+      "kind": "problem",
+      "id": "822",
+      "title": "Gaussian Random Projection (Johnson-Lindenstrauss)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/822",
+      "path": "problems/0822-gaussian-random-projection-johnson-lindenstrauss",
+      "first_solved_at": "2026-07-22T15:29:10.166Z",
+      "last_pushed_at": "2026-07-22T15:29:10.166Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
