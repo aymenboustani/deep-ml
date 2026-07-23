@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 160 problems · 0 labs · 0 math
+**165** solved · 165 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,9 +114,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-08-22 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2025-03-29 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chi-square Probability Distribution](https://www.deep-ml.com/problems/176) | medium | 2026-05-17 | [solution](problems/0176-chi-square-probability-distribution) |
+| [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-07-23 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Compute Grassmann Distance Between Subspaces](https://www.deep-ml.com/problems/875) | medium | 2026-05-20 | [solution](problems/0875-compute-grassmann-distance-between-subspaces) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-05-02 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2025-03-28 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Compute Total Probability using Law of Total Probability](https://www.deep-ml.com/problems/244) | medium | 2026-07-23 | [solution](problems/0244-compute-total-probability-using-law-of-total-probability) |
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-05-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-16 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-16 | [solution](problems/0219-derivative-of-softmax) |
@@ -138,6 +140,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-04-14 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-04-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-03 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-07-23 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-02-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-07-17 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-02-01 | [solution](problems/0053-implement-self-attention-mechanism) |
@@ -146,12 +149,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Bellman Equation for Value Iteration](https://www.deep-ml.com/problems/157) | medium | 2026-07-14 | [solution](problems/0157-implement-the-bellman-equation-for-value-iteration) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2025-11-09 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement the Noisy Top-K Gating Function](https://www.deep-ml.com/problems/124) | medium | 2025-04-17 | [solution](problems/0124-implement-the-noisy-top-k-gating-function) |
+| [Implement Variational Autoencoder (VAE) Loss (ELBO)](https://www.deep-ml.com/problems/393) | medium | 2026-07-23 | [solution](problems/0393-implement-variational-autoencoder-vae-loss-elbo) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-02-01 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2025-10-31 | [solution](problems/0152-implementing-rouge-score) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-05-01 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-13 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-16 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-29 | [solution](problems/0017-k-means-clustering) |
+| [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-23 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-09-04 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-09-04 | [solution](problems/0007-matrix-transformation) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-01 | [solution](problems/0745-multi-token-prediction-training-objective) |
