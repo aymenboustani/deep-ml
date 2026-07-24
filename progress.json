@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:28.288Z",
+  "generated_at": "2026-10-22T21:55:30.185Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2145,6 +2145,58 @@
       "last_pushed_at": "2026-07-23T17:38:42.496Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:491": {
+      "kind": "problem",
+      "id": "491",
+      "title": "Build a Transformer Encoder Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/491",
+      "path": "problems/0491-build-a-transformer-encoder-layer",
+      "first_solved_at": "2026-07-24T13:30:54.084Z",
+      "last_pushed_at": "2026-07-24T13:30:54.084Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:705": {
+      "kind": "problem",
+      "id": "705",
+      "title": "Image Patch Embedding and Reconstruction",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/705",
+      "path": "problems/0705-image-patch-embedding-and-reconstruction",
+      "first_solved_at": "2026-07-24T13:41:31.428Z",
+      "last_pushed_at": "2026-07-24T13:41:31.428Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:830": {
+      "kind": "problem",
+      "id": "830",
+      "title": "Local Outlier Factor (LOF) Anomaly Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/830",
+      "path": "problems/0830-local-outlier-factor-lof-anomaly-score",
+      "first_solved_at": "2026-07-24T19:43:16.787Z",
+      "last_pushed_at": "2026-07-24T19:43:16.787Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:489": {
+      "kind": "problem",
+      "id": "489",
+      "title": "Log-Probability Ratio for Token Sequences",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/489",
+      "path": "problems/0489-log-probability-ratio-for-token-sequences",
+      "first_solved_at": "2026-07-24T20:02:05.920Z",
+      "last_pushed_at": "2026-07-24T20:02:05.920Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
