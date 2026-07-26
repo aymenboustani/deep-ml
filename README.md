@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**169** solved · 169 problems · 0 labs · 0 math
+**170** solved · 170 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-04-04 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Image Patch Embedding and Reconstruction](https://www.deep-ml.com/problems/705) | easy | 2026-07-24 | [solution](problems/0705-image-patch-embedding-and-reconstruction) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-04-10 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-07-26 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2025-04-16 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-05-16 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2025-03-29 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
