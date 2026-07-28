@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:32.204Z",
+  "generated_at": "2026-10-22T21:55:34.046Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2208,6 +2208,45 @@
       "path": "problems/0263-implement-binary-cross-entropy-loss",
       "first_solved_at": "2026-07-26T22:39:00.525Z",
       "last_pushed_at": "2026-07-26T22:39:00.525Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-07-28T00:34:18.919Z",
+      "last_pushed_at": "2026-07-28T00:34:18.919Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-07-28T00:36:01.680Z",
+      "last_pushed_at": "2026-07-28T00:36:01.680Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:158": {
+      "kind": "problem",
+      "id": "158",
+      "title": "Epsilon-Greedy Action Selection for n-Armed Bandit",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/158",
+      "path": "problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit",
+      "first_solved_at": "2026-07-28T08:07:23.381Z",
+      "last_pushed_at": "2026-07-28T08:07:23.381Z",
       "language": "python",
       "lines": 15
     }
