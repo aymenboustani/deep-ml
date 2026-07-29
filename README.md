@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**173** solved · 173 problems · 0 labs · 0 math
+**175** solved · 175 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -126,12 +126,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-05-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-16 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-16 | [solution](problems/0219-derivative-of-softmax) |
+| [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-07-29 | [solution](problems/0302-diffusion-reconstruction-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-10 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-02 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-07-28 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-07-13 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
+| [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-07-29 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-07-22 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-09-05 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-15 | [solution](problems/0142-gridworld-policy-evaluation) |

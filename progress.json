@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:34.046Z",
+  "generated_at": "2026-10-22T21:55:35.978Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2249,6 +2249,32 @@
       "last_pushed_at": "2026-07-28T08:07:23.381Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:261": {
+      "kind": "problem",
+      "id": "261",
+      "title": "Gaussian Naive Bayes Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/261",
+      "path": "problems/0261-gaussian-naive-bayes-classifier",
+      "first_solved_at": "2026-07-29T16:38:40.346Z",
+      "last_pushed_at": "2026-07-29T16:38:40.346Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:302": {
+      "kind": "problem",
+      "id": "302",
+      "title": "Diffusion Reconstruction Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/302",
+      "path": "problems/0302-diffusion-reconstruction-loss",
+      "first_solved_at": "2026-07-29T21:05:37.205Z",
+      "last_pushed_at": "2026-07-29T21:05:37.205Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
