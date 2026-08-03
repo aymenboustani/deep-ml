@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:38.416Z",
+  "generated_at": "2026-10-22T21:55:40.257Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2288,6 +2288,71 @@
       "last_pushed_at": "2026-07-30T15:46:54.815Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:245": {
+      "kind": "problem",
+      "id": "245",
+      "title": "Hypergeometric Distribution PMF",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/245",
+      "path": "problems/0245-hypergeometric-distribution-pmf",
+      "first_solved_at": "2026-08-03T14:29:59.918Z",
+      "last_pushed_at": "2026-08-03T14:29:59.918Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-08-03T15:23:48.298Z",
+      "last_pushed_at": "2026-08-03T15:23:48.298Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-08-03T15:27:24.877Z",
+      "last_pushed_at": "2026-08-03T15:27:24.877Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:649": {
+      "kind": "problem",
+      "id": "649",
+      "title": "Bellman Error Minimization with Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/649",
+      "path": "problems/0649-bellman-error-minimization-with-linear-function-approximation",
+      "first_solved_at": "2026-08-03T17:46:31.870Z",
+      "last_pushed_at": "2026-08-03T17:46:31.870Z",
+      "language": "python",
+      "lines": 42
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-08-03T17:53:36.713Z",
+      "last_pushed_at": "2026-08-03T17:53:36.713Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }

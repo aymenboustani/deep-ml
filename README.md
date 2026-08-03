@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**176** solved · 176 problems · 0 labs · 0 math
+**181** solved · 181 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2025-02-01 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-07-12 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-07-17 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
+| [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-08-03 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Portfolio Variance](https://www.deep-ml.com/problems/183) | easy | 2025-10-31 | [solution](problems/0183-calculate-portfolio-variance) |
 | [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2025-02-01 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2025-02-01 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
@@ -138,6 +139,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-07-22 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
 | [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2024-09-05 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-07-15 | [solution](problems/0142-gridworld-policy-evaluation) |
+| [Hypergeometric Distribution PMF](https://www.deep-ml.com/problems/245) | medium | 2026-08-03 | [solution](problems/0245-hypergeometric-distribution-pmf) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-05-16 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-05-03 | [solution](problems/0169-implement-adamw-optimizer-step) |
@@ -169,6 +171,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-07-24 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-09-04 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-09-04 | [solution](problems/0007-matrix-transformation) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-08-03 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-01 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-03-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
@@ -179,6 +182,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-09-02 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-05-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-05-03 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-08-03 | [solution](problems/0842-standardscaler-fit-and-transform) |
+| [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-08-03 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-07-24 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-07-15 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2025-04-01 | [solution](problems/0094-implement-multi-head-attention) |
