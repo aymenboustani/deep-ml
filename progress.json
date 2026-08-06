@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:44.289Z",
+  "generated_at": "2026-10-22T21:55:46.283Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2403,6 +2403,84 @@
       "path": "problems/0254-silhouette-score-for-clustering-evaluation",
       "first_solved_at": "2026-08-05T18:56:26.288Z",
       "last_pushed_at": "2026-08-05T18:56:26.288Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:340": {
+      "kind": "problem",
+      "id": "340",
+      "title": "Exponential Distribution PDF and CDF",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/340",
+      "path": "problems/0340-exponential-distribution-pdf-and-cdf",
+      "first_solved_at": "2026-08-06T13:35:49.032Z",
+      "last_pushed_at": "2026-08-06T13:35:49.032Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-08-06T14:32:34.004Z",
+      "last_pushed_at": "2026-08-06T14:32:34.004Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:303": {
+      "kind": "problem",
+      "id": "303",
+      "title": "Forward Diffusion Process",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/303",
+      "path": "problems/0303-forward-diffusion-process",
+      "first_solved_at": "2026-08-06T14:40:12.386Z",
+      "last_pushed_at": "2026-08-06T14:40:12.386Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:382": {
+      "kind": "problem",
+      "id": "382",
+      "title": "Direct Preference Optimization (DPO) Loss",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/382",
+      "path": "problems/0382-direct-preference-optimization-dpo-loss",
+      "first_solved_at": "2026-08-06T15:25:54.617Z",
+      "last_pushed_at": "2026-08-06T15:25:54.617Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:390": {
+      "kind": "problem",
+      "id": "390",
+      "title": "Implement Multiquery Attention (MQA)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/390",
+      "path": "problems/0390-implement-multiquery-attention-mqa",
+      "first_solved_at": "2026-08-06T16:12:09.404Z",
+      "last_pushed_at": "2026-08-06T16:12:09.404Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:227": {
+      "kind": "problem",
+      "id": "227",
+      "title": "Knowledge Distillation Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/227",
+      "path": "problems/0227-knowledge-distillation-loss",
+      "first_solved_at": "2026-08-06T17:27:23.459Z",
+      "last_pushed_at": "2026-08-06T17:27:23.459Z",
       "language": "python",
       "lines": 27
     }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**185** solved · 185 problems · 0 labs · 0 math
+**191** solved · 191 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,12 +53,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2025-10-16 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Estimate Action Values Using Sample Averaging](https://www.deep-ml.com/problems/543) | easy | 2026-07-22 | [solution](problems/0543-estimate-action-values-using-sample-averaging) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-05-03 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Exponential Distribution PDF and CDF](https://www.deep-ml.com/problems/340) | easy | 2026-08-06 | [solution](problems/0340-exponential-distribution-pdf-and-cdf) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-07-13 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-12 | [solution](problems/0016-feature-scaling-implementation) |
 | [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-05-02 | [solution](problems/0147-gelu-activation-function) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2025-03-27 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Gibbs Softmax Action Selection](https://www.deep-ml.com/problems/641) | easy | 2026-05-17 | [solution](problems/0641-gibbs-softmax-action-selection) |
 | [Gradient Checkpointing](https://www.deep-ml.com/problems/188) | easy | 2025-10-31 | [solution](problems/0188-gradient-checkpointing) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-08-06 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-04-04 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Image Patch Embedding and Reconstruction](https://www.deep-ml.com/problems/705) | easy | 2026-07-24 | [solution](problems/0705-image-patch-embedding-and-reconstruction) |
 | [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2025-04-10 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
@@ -131,11 +133,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-07-16 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-07-16 | [solution](problems/0219-derivative-of-softmax) |
 | [Diffusion Reconstruction Loss](https://www.deep-ml.com/problems/302) | medium | 2026-07-29 | [solution](problems/0302-diffusion-reconstruction-loss) |
+| [Direct Preference Optimization (DPO) Loss](https://www.deep-ml.com/problems/382) | medium | 2026-08-06 | [solution](problems/0382-direct-preference-optimization-dpo-loss) |
 | [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2024-08-30 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-07-10 | [solution](problems/0151-dropout-layer) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-05-02 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Epsilon-Greedy Action Selection for n-Armed Bandit](https://www.deep-ml.com/problems/158) | medium | 2026-07-28 | [solution](problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit) |
 | [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-07-13 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
+| [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-08-06 | [solution](problems/0303-forward-diffusion-process) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-05-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-07-29 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Gaussian Random Projection (Johnson-Lindenstrauss)](https://www.deep-ml.com/problems/822) | medium | 2026-07-22 | [solution](problems/0822-gaussian-random-projection-johnson-lindenstrauss) |
@@ -152,6 +156,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-04-14 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2025-04-06 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2025-04-03 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-08-06 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-07-23 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2025-02-02 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement RBF (Gaussian) Kernel Function](https://www.deep-ml.com/problems/280) | medium | 2026-07-17 | [solution](problems/0280-implement-rbf-gaussian-kernel-function) |
@@ -168,6 +173,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-07-13 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-07-16 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-08-29 | [solution](problems/0017-k-means-clustering) |
+| [Knowledge Distillation Loss](https://www.deep-ml.com/problems/227) | medium | 2026-08-06 | [solution](problems/0227-knowledge-distillation-loss) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-07-23 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-07-24 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
 | [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-07-24 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
