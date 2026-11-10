@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:55:46.283Z",
+  "generated_at": "2026-11-10T00:07:26.462Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1362,7 +1362,7 @@
       "url": "https://www.deep-ml.com/problems/140",
       "path": "problems/0140-bernoulli-naive-bayes-classifier",
       "first_solved_at": "2026-05-01T23:00:56.199Z",
-      "last_pushed_at": "2026-05-01T23:00:56.199Z",
+      "last_pushed_at": "2026-11-10T00:07:25.907Z",
       "language": "python",
       "lines": 32
     },
