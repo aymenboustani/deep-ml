@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**197** solved · 197 problems · 0 labs · 0 math
+**198** solved · 198 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -150,6 +150,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-05-16 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2024-09-06 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-05-03 | [solution](problems/0169-implement-adamw-optimizer-step) |
+| [Implement Attention Sink Detection](https://www.deep-ml.com/problems/457) | medium | 2026-11-18 | [solution](problems/0457-implement-attention-sink-detection) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2026-05-03 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [Implement Gated Attention](https://www.deep-ml.com/problems/271) | medium | 2026-07-16 | [solution](problems/0271-implement-gated-attention) |
 | [Implement K-Nearest Neighbors](https://www.deep-ml.com/problems/173) | medium | 2026-05-03 | [solution](problems/0173-implement-k-nearest-neighbors) |
