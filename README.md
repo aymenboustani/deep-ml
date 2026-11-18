@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**194** solved · 194 problems · 0 labs · 0 math
+**195** solved · 195 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -117,6 +117,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2025-03-28 | [solution](problems/0087-adam-optimizer) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-05-01 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-04-04 | [solution](problems/0079-binomial-distribution-probability) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-18 | [solution](problems/0090-bm25-ranking) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-07-16 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-05-18 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2024-08-29 | [solution](problems/0037-calculate-correlation-matrix) |

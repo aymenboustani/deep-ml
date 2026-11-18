@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:33:29.156Z",
+  "generated_at": "2026-11-18T20:57:28.422Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2522,6 +2522,19 @@
       "last_pushed_at": "2026-11-18T00:33:28.390Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:90": {
+      "kind": "problem",
+      "id": "90",
+      "title": "BM25 Ranking ",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/90",
+      "path": "problems/0090-bm25-ranking",
+      "first_solved_at": "2026-11-18T20:57:27.724Z",
+      "last_pushed_at": "2026-11-18T20:57:27.724Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
