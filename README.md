@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**193** solved · 193 problems · 0 labs · 0 math
+**194** solved · 194 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -180,6 +180,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-09-04 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-09-04 | [solution](problems/0007-matrix-transformation) |
 | [Memory Complexity: Full Space-Time vs. ST-Factorized Attention](https://www.deep-ml.com/problems/725) | medium | 2026-11-11 | [solution](problems/0725-memory-complexity-full-space-time-vs-st-factorized-attention) |
+| [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-11-18 | [solution](problems/0160-mixed-precision-training) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-08-03 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-01 | [solution](problems/0745-multi-token-prediction-training-objective) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
