@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**195** solved · 195 problems · 0 labs · 0 math
+**196** solved · 196 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -184,6 +184,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mixed Precision Training](https://www.deep-ml.com/problems/160) | medium | 2026-11-18 | [solution](problems/0160-mixed-precision-training) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-08-03 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-05-01 | [solution](problems/0745-multi-token-prediction-training-objective) |
+| [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-11-18 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-03-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-09-05 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
