@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**198** solved · 198 problems · 0 labs · 0 math
+**199** solved · 199 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -188,6 +188,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Muon Optimizer Update with Newton-Schulz Iteration](https://www.deep-ml.com/problems/172) | medium | 2026-11-18 | [solution](problems/0172-muon-optimizer-update-with-newton-schulz-iteration) |
 | [Newton-Schulz Iteration for Approximate Orthogonalization](https://www.deep-ml.com/problems/739) | medium | 2026-05-01 | [solution](problems/0739-newton-schulz-iteration-for-approximate-orthogonalization) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-03-29 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [One-Class SVM for Anomaly Detection](https://www.deep-ml.com/problems/831) | medium | 2026-11-19 | [solution](problems/0831-one-class-svm-for-anomaly-detection) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-09-05 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [QK-Norm (Query-Key Normalization)](https://www.deep-ml.com/problems/407) | medium | 2026-07-21 | [solution](problems/0407-qk-norm-query-key-normalization) |
 | [Reconstruction Error from PCA](https://www.deep-ml.com/problems/353) | medium | 2026-11-18 | [solution](problems/0353-reconstruction-error-from-pca) |
