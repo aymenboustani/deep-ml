@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T01:39:41.003Z",
+  "generated_at": "2026-11-19T02:22:59.626Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2600,6 +2600,19 @@
       "last_pushed_at": "2026-11-19T01:39:40.395Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1667": {
+      "kind": "problem",
+      "id": "1667",
+      "title": "Soft-Target Cross-Entropy Gradient in Log Space (expm1 and log1p)",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1667",
+      "path": "problems/1667-soft-target-cross-entropy-gradient-in-log-space-expm1-and-log1p",
+      "first_solved_at": "2026-11-19T02:22:58.840Z",
+      "last_pushed_at": "2026-11-19T02:22:58.840Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
