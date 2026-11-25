@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**201** solved · 201 problems · 0 labs · 0 math
+**202** solved · 202 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -94,6 +94,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-09-02 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-07-12 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-10 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-25 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2025-03-28 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-05-01 | [solution](problems/0146-momentum-optimizer) |
 | [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-07-13 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
